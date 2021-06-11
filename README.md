@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 ### Hi there 👋
 
 - 🔭 I’m currently working on neural dynamics of speech processing in brain
