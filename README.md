@@ -3,5 +3,5 @@
 ### Hi there 👋
 
 - 🧠 I’m currently working on neural dynamics of speech processing in brain
-- 💻 I’m currently learning GLM, latent state space, strucured flows on manifolds...
+- 💻 I’m currently learning PPGLM, latent state space, dynamical systems analysis...
 - 📫 How to reach me: nosratullah.mohammadi@gmail.com
