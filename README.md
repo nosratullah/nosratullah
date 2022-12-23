@@ -2,7 +2,8 @@
 
 [![@nosratullah's Holopin board](https://holopin.me/nosratullah)](https://holopin.io/@nosratullah)
 ### Hi there 👋
-
+![Github Stats By Mehmet](https://github-readme-stats.vercel.app/api?username=nosratullah&show_icons=true&theme=radical)
+</br>
 - 🧠 I’m currently working on neural dynamics of speech processing in brain
 - 💻 I’m currently learning PPGLM, latent state space, dynamical systems analysis...
 - 📫 How to reach me: nosratullah.mohammadi@gmail.com
