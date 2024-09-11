@@ -1,6 +1,4 @@
 <!-- ![png_02 copy](https://user-images.githubusercontent.com/13776994/121647998-4245fa00-caac-11eb-8dc0-6254ae15e4bd.png) -->
-
-[![@nosratullah's Holopin board](https://holopin.me/nosratullah)](https://holopin.io/@nosratullah)
 ### Hi there 👋
 </br>
 - 🧠 I’m currently working on neural dynamics of speech processing in brain
